@@ -1,0 +1,14 @@
+INFO:root:Program stated
+INFO:root:path:C:\Users\Admin\Desktop\python-hw\here
+INFO:root:percent:0.5
+INFO:root:unknown:1
+INFO:root:openthis.txt
+INFO:root:closed this.txt
+INFO:root:delete 0 bad line
+INFO:root:bad data may happen
+INFO:root:bad data may happen
+INFO:root:bad data may happen
+INFO:root:bad data may happen
+INFO:root:bad data may happen
+INFO:root:bad data may happen
+INFO:root:bad data may happen
