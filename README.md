@@ -5,4 +5,6 @@ Chronological order
 2)pipeline  
 3)symbolic  
 4)blosum  
-5)pair
+5)pair  
+6)exam
+
